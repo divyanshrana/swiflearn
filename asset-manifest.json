@@ -1,0 +1,24 @@
+{
+  "files": {
+    "main.css": "/swiflearn/static/css/main.4ec64df1.chunk.css",
+    "main.js": "/swiflearn/static/js/main.d9c5ae1d.chunk.js",
+    "main.js.map": "/swiflearn/static/js/main.d9c5ae1d.chunk.js.map",
+    "runtime-main.js": "/swiflearn/static/js/runtime-main.93824cb1.js",
+    "runtime-main.js.map": "/swiflearn/static/js/runtime-main.93824cb1.js.map",
+    "static/js/2.03cc669b.chunk.js": "/swiflearn/static/js/2.03cc669b.chunk.js",
+    "static/js/2.03cc669b.chunk.js.map": "/swiflearn/static/js/2.03cc669b.chunk.js.map",
+    "index.html": "/swiflearn/index.html",
+    "precache-manifest.1b4153002c2c4ce45f00fdee6f1e6746.js": "/swiflearn/precache-manifest.1b4153002c2c4ce45f00fdee6f1e6746.js",
+    "service-worker.js": "/swiflearn/service-worker.js",
+    "static/css/main.4ec64df1.chunk.css.map": "/swiflearn/static/css/main.4ec64df1.chunk.css.map",
+    "static/js/2.03cc669b.chunk.js.LICENSE.txt": "/swiflearn/static/js/2.03cc669b.chunk.js.LICENSE.txt",
+    "static/media/live.ico": "/swiflearn/static/media/live.6544b101.ico",
+    "static/media/youtube.webp": "/swiflearn/static/media/youtube.4aac3d23.webp"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.93824cb1.js",
+    "static/js/2.03cc669b.chunk.js",
+    "static/css/main.4ec64df1.chunk.css",
+    "static/js/main.d9c5ae1d.chunk.js"
+  ]
+}
