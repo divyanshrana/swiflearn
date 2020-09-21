@@ -1,7 +1,7 @@
 {
   "name": "assignment",
   "version": "0.1.0",
-  "homepage": "http://divyanshrana.github.io/swiflearnassign",
+  "homepage": "http://divyanshrana.github.io/swiflearn",
   "private": true,
   "dependencies": {
     "@material-ui/core": "^4.11.0",
